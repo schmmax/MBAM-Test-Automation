@@ -2413,6 +2413,7 @@ Param()
         "10.0.16299" { $expectedFileVersion = "10016299820"; break } # Windows 10 fall update 1709
         "10.0.17134" { $expectedFileVersion = "10017134441"; break } # Windows 10 spring update 1803
         "10.0.17763" { $expectedFileVersion = "100177631"; break } # Windows 10 fall update 1809
+        "10.0.18362" { $expectedFileVersion = "10018362207"; break } # Windows 10 spring update 1903
         default { $expectedFileVersion = "0"; break }
     }
 
